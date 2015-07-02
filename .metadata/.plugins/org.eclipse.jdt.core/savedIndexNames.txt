@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Nemanja_prog_android\Workspace_CityGoldSeeker\.metadata\.plugins\org.eclipse.jdt.core
+3231490994.index
+1284074322.index
+940587928.index

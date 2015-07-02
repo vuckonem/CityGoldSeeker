@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/clue_fragment"
+    android:background="@drawable/gold_wrinckled" >
+
+    <TextView
+        android:id="@+id/clue_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white_text" />
+
+    <Button
+        android:id="@+id/clue_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/clue_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="164dp"
+        android:textColor="@color/white_text"
+        android:text="@string/clue_button" />
+
+</RelativeLayout>
